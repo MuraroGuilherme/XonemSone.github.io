@@ -116,12 +116,12 @@ body{
     border: 0px;
     margin: 0px;
     padding: 0px;
-    background-image: url(maquinario.jpg);
+    /*background-image: url(maquinario.jpg);
     background-repeat: no-repeat;
     background-size: cover;
     background-position: center center;
     background-blend-mode: screen;
-    background-color: #ffffff;
+    background-color: #ffffff;*/
 
 }
 @media(max-width: 385px){
