@@ -123,24 +123,6 @@ body{
     .header1{
     flex-direction: column;
     }
-    .video{
-        position: relative;
-        width: 100%;
-        height: 0;
-        padding-bottom: 60%;
-        display:block;
-        margin: auto;
-        
-      }
-      .video iframe{
-        position: absolute;
-        left: 0;
-        bottom: 0;
-        top: 0;
-        width: 100%;
-        height: 100%;
-      }
-}
 @media(max-width: 700px){
     .video{
         position: relative;
