@@ -119,11 +119,10 @@ body{
     background-color:#e9e9e9;
 
 }
-@media(max-width: 385px){
+@media(max-width: 700px){
     .header1{
     flex-direction: column;
     }
-@media(max-width: 700px){
     .video{
         position: relative;
         width: 100%;
@@ -131,7 +130,6 @@ body{
         padding-bottom: 60%;
         display:block;
         margin: auto;
-        
       }
       .video iframe{
         position: absolute;
@@ -140,8 +138,5 @@ body{
         top: 0;
         width: 100%;
         height: 100%;
-      }
-
-
-
+    }
 }
