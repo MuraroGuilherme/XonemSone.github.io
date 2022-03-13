@@ -4,11 +4,12 @@ html, body {
 }
 
 .header1{
-    background-color:#2b6777;
+    background-color:#621B00;
     padding:10px;
     display: flex;
     justify-content: space-between;
     text-align: center;
+    box-shadow: 1px 1px #000000;
 }
 
 .menu h4 {
@@ -38,7 +39,7 @@ html, body {
 }
 
 .titulo{
-    color:#111111; 
+    color:black; 
     font-size: 30px;
     font-family:Poppins, sans-serif;
     text-align: center;
@@ -46,7 +47,7 @@ html, body {
 }
 
 .data{
-    color:#111111;
+    color:black;
     font-size: 20px;
     font-family:Poppins, sans-serif;
     text-align: center;
@@ -73,100 +74,100 @@ html, body {
       }
 
 .motor {
-    color:#111111;
+    color:#f2f2f2;
     font-size: 15px;
-    border: 2px solid #f2f2f2;  
+    border: 2px solid #330E11;
     border-radius: 20px;
     padding: 1px 5px 1px 5px;
     margin: 10px 30px 10px 30px;
     display: inline;
-    background-color: #f2f2f2;
+    background-color: #330E11;
     font-family: Poppins, sans-serif;   
 }
 
 .relogio {
-    color:#111111;
+    color:#f2f2f2;
     font-size: 15px;
-    border: 2px solid #f2f2f2;  
+    border: 2px solid #330E11;  
     border-radius: 20px;
     padding: 1px 5px 1px 5px;
     margin: 10px 0px 0px 30px;
     display: inline-flex;
-    background-color: #f2f2f2;
-    font-family:Poppins, sans-serif;   
+    background-color: #330E11;
+    font-family:Poppins, sans-serif;  
 }
 
 .lampada {
-    color:#111111;
+    color:#f2f2f2;
     font-size: 15px;
-    border: 2px solid #f2f2f2;  
+    border: 2px solid #330E11;  
     border-radius: 20px;
     padding: 1px 5px 1px 5px;
     margin: 10px 0px 0px 30px;
     display: inline-flex;
-    background-color: #f2f2f2;
+    background-color: #330E11;
     font-family:Poppins, sans-serif; 
 }
 .telefone {
-    color:#111111;
+    color:#f2f2f2;
     font-size: 15px;
-    border: 2px solid #f2f2f2;  
+    border: 2px solid #330E11;  
     border-radius: 20px;
     padding: 1px 5px 1px 5px;
     margin: 10px 0px 0px 30px;
     display: inline-flex;
-    background-color: #f2f2f2;
-    font-family:Poppins, sans-serif;
+    background-color: #330E11;
+    font-family:Poppins, sans-serif; 
 }
 .telefonetext{
     color:#ffffff;
     font-family:Poppins, sans-serif;
-    border: 5px solid #2b6777;
+    border: 5px solid #621B00;
     margin: 10px 30px;
     padding: 20px 20px 20px 20px;
-    background-color: #2b6777;
+    background-color: #621B00;
     border-radius: 20px;
-    box-shadow: -10px 10px teal;
+    box-shadow: -10px 10px #3C1518;
 }
 .motortext{
     color:#ffffff;
     font-family:Poppins, sans-serif;
-    border: 5px solid #2b6777;
+    border: 5px solid #621B00;
     margin: 10px 30px;
     padding: 20px 20px 20px 20px;
-    background-color: #2b6777;
+    background-color: #621B00;
     border-radius: 20px;
-    box-shadow: -10px 10px teal;
+    box-shadow: -10px 10px #3C1518;
 }
 
 .relogiotext{
     color:#ffffff;
     font-family:Poppins, sans-serif;
-    border: 5px solid #2b6777;
+    border: 5px solid #621B00;
     margin: 10px 30px;
-    padding: 0px 20px 20px 20px;
-    background-color: #2b6777;
+    padding: 20px 20px 20px 20px;
+    background-color: #621B00;
     border-radius: 20px;
-    box-shadow: -10px 10px teal;
+    box-shadow: -10px 10px #3C1518;
 }
 
 .lamptext {
     color:#ffffff;
     font-family:Poppins, sans-serif;
-    border: 5px solid #2b6777;
+    border: 5px solid #621B00;
     margin: 10px 30px;
     padding: 20px 20px 20px 20px;
-    background-color: #2b6777;
+    background-color: #621B00;
     border-radius: 20px;
-    box-shadow: -10px 10px teal;
+    box-shadow: -10px 10px #3C1518;
 }
 
 body{
     border: 0px;
     margin: 0px;
     padding: 0px;
-    background-color:#c8d8e4;
-
+    background-color:#d6d6d6;
+    c8d8e4
 }
 @media(max-width: 900px){
     .header1{
